@@ -10,12 +10,14 @@ To access our models, ...
 
 **Supplementary Material**
 
-Link to San Diego Hunger Coalition's Website
+[San Diego Hunger Coalition's Website](https://www.sandiegohungercoalition.org/)
 
 **Contributions**
 
 Adeline Liem:
 
-Amy Tan:
+Amy Tan: School Meal Data Cleaning/Wrangling, School Meal DCT Models
 
 Shirley Agustin:
+
+Joint Collaboration: Introduction, Conclusion/Discussion
