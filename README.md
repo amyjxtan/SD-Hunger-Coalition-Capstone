@@ -18,6 +18,6 @@ Adeline Liem: School Meals Ordinal Piecewise Regression Models
 
 Amy Tan: School Meal Data Cleaning/Wrangling, School Meals DCT Models
 
-Shirley Agustin:
+Shirley Agustin: Redefining the Federal Poverty Line (FPL), CalFresh Data Cleaning/Wrangling, CalFresh Multiple Linear Regression Models.
 
 Joint Collaboration: Introduction, Conclusion/Discussion
