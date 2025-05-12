@@ -14,7 +14,7 @@ To access our models, ...
 
 **Contributions**
 
-Adeline Liem:
+Adeline Liem: Ordinal Piecewise Regression Models
 
 Amy Tan: School Meal Data Cleaning/Wrangling, School Meal DCT Models
 
